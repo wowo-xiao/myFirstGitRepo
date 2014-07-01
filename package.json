@@ -1,0 +1,26 @@
+{
+  "name": "myFirstGitRepo",
+  "version": "0.0.1",
+  "description": "myFirstGitRepo ==============",
+  "main": "helloWorld.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-githooks": "^0.3.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wowo-xiao/myFirstGitRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowo-xiao/myFirstGitRepo/issues"
+  },
+  "homepage": "https://github.com/wowo-xiao/myFirstGitRepo"
+}
